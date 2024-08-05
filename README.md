@@ -12,15 +12,15 @@ Striving for simplicity and clarity, I carefully curated the essential metrics s
 # visualization tools/ charts
 In this dashboard I have used different types of visualization tools/ charts.
 
--Power Query
--Pie Chart
--Donut Chart
--Cards 
--Area chart 
--Column Chart 
--Bar Chart 
--Column and line Chart 
--Slicer 
+•Power Query
+•Pie Chart 
+•Donut Chart
+•Cards 
+•Area chart 
+•Column Chart 
+•Bar Chart 
+•Column and line Chart 
+•Slicer 
 
 # Conclusion
 This dashboard gives us an insight into the different changes in revenue and units of products sold by month and the category of the product, the region of the customer where most item sold, also payment channel used by customers.
