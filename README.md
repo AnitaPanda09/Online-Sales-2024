@@ -12,9 +12,9 @@ Striving for simplicity and clarity, I carefully curated the essential metrics s
 # visualization tools/ charts
 In this dashboard I have used different types of visualization tools/ charts.
 
-•Power Query. 
+•Power Query    
 •Pie Chart   
-•Donut Chart. 
+•Donut Chart      
 •Cards   
 •Area chart   
 •Column Chart    
